@@ -1,5 +1,10 @@
 ### Hi there 👋
+My name is Ahmed Gulab Khan. I am a Software Engineer currently working at Electronic Arts (EA).
 
+You can reach out to me on
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ahmedgulabkhan/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ahmedgulabkhan/)
 <!--
 **ahmedgulabkhan/ahmedgulabkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+
+<img align="left" alt="ahmedgulabkhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmedgulabkhan&show_icons=true&hide_border=true&title_color=bddfff&bg_color=1a1b27&text_color=ffffff&count_private=true&include_all_commits=true" />
