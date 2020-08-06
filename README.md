@@ -4,7 +4,7 @@ My name is Ahmed Gulab Khan. I am a Software Engineer currently working at Elect
 You can reach out to me on
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ahmedgulabkhan/)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gulabkhan.jalozai@gmail.com)
+[<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:gulabkhan.jalozai@gmail.com)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ahmedgulabkhan/)
 <!--
 **ahmedgulabkhan/ahmedgulabkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
